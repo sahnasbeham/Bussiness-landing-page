@@ -1550,9 +1550,6 @@ body {
    /* ==========================================================================
    IMAGE SHOWCASE FEATURE MODULE
    ========================================================================== */
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;800&display=swap');
-
 .image-showcase-section {
     width: 100%;
     background-color: #141415; /* Seamless dark backdrop color matching existing modules */
