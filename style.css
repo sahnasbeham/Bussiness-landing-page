@@ -1547,9 +1547,9 @@ body {
         border-top: 1px solid #a67c37;
         border-bottom: 1px solid #a67c37;
     }
-   /* ==========================================================================
-   IMAGE SHOWCASE FEATURE MODULE
-   ========================================================================== */
+   
+   /* IMAGE SHOWCASE FEATURE MODULE */
+   
 .image-showcase-section {
     width: 100%;
     background-color: #141415; /* Seamless dark backdrop color matching existing modules */
